@@ -1,6 +1,7 @@
 # Python-Interview-Examples
 
 Problem Statements
+
 KthGrammer.py
 
   On the first row, we write a 0. Now in every subsequent row, we look at the previous row and replace each occurrence of 0 with 01, and each occurrence of 1 with 10.
